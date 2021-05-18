@@ -188,7 +188,7 @@ if __name__=="__main__":
                 else:
                     print("No Available Centers")
 
-                time.sleep(900)
+                time.sleep(300)
         else:
             print("District id or pincode error. Check settings")
     else:
